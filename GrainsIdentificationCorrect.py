@@ -1,3 +1,8 @@
+#The code identifies the grey scale threshold corresponding to the correct sand grain volume within the system
+#Accordingly the porosity Profile in displayed
+# MAIN OUTPUT: the binarised 3D image 
+# MAIN INPUT : the greyscale 3D image
+
 import tifffile
 import numpy
 import sys
