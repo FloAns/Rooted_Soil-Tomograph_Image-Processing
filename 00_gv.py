@@ -1,3 +1,7 @@
+# Solution to correct 3D different gradient of Grey value distribution in the tomograph. 
+#Correction done on the general Grey Value frequency distribution, then it focuses on each peak of the histogram. The final GV profile is consistend along the depth. 
+# give in input the 3D image to correct. 
+
 import tifffile
 import numpy
 import matplotlib.pyplot as plt
