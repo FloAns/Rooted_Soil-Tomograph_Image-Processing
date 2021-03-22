@@ -1,3 +1,6 @@
+## INPUT: Set of 3D images of the same sample
+## OUTPUT:Set of 3D images of the same sample and normalised Grey scale distribution
+
 import tifffile as tif
 import matplotlib.pyplot as plt
 import numpy as np
