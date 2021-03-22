@@ -1,5 +1,5 @@
 """
-2019-08-29 EA and FA
+2019-08-29 FA
 After walking through root, build a vector representation of root
 """
 
