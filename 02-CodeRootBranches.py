@@ -1,5 +1,5 @@
 """
-2019-08-29 Edward Ando and Floriana Anselmucci
+2019-08-29 Floriana Anselmucci
 This programme has 2 main objectives: to label root segements and to
 output a vectorised version of the roots for analysis.
 
