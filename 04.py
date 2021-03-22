@@ -1,5 +1,5 @@
 """
-2019-09-06 EA and FA
+2019-09-06 FA
 Load vectors, and looks at, for example, greylevels in the plane perpendicular to the root axis
 """
 
